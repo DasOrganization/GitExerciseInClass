@@ -2,13 +2,19 @@ Kjartan:
 The Matrix
 Sharknado
 Cannibal Holocaust
-=======
-Darri:
+
+Darri Konn:
 The Matrix
 Shawshank Redemption
 The Green Mile
+<<<<<<< HEAD
 =======
 
 Kevin:
 The Godfather
 
+=======
+
+Kevin:
+The Godfather
+>>>>>>> 27a57207da4d09ef95356daf710e661b183d3a86
