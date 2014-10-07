@@ -1,3 +1,10 @@
+Kjartan:
 The Matrix
 Sharknado
 Cannibal Holocaust
+=======
+Darri:
+The Matrix
+Shawshank Redemption
+The Green Mile
+>>>>>>> 7853c7d752aaccf8cd0b06d9b6c802677fcce58a
