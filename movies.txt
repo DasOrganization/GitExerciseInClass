@@ -1,13 +1,22 @@
-Darri:
+Kjartan:
+The Matrix
+Sharknado
+Cannibal Holocaust
+
+Darri Konn:
 The Matrix
 Shawshank Redemption
 The Green Mile
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 26faaeb6594f6712020b64c430e4928b85b59503
 =======
 
 Kevin:
 The Godfather
+<<<<<<< HEAD
 >>>>>>> 98752e4a993006ffbcdbe766e3fa259dc3b1d5e4
 
 ===============
@@ -17,3 +26,9 @@ Never Say Never
 Crossroads
 Mean Girls
 Grey's Anatomy - The Movie
+=======
+
+=======
+
+
+>>>>>>> 26faaeb6594f6712020b64c430e4928b85b59503
