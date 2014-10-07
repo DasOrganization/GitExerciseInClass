@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Kjartan:
 The Matrix
 Sharknado
@@ -6,7 +6,7 @@ Cannibal Holocaust
 
 =======
 darri mitt eigid 
->>>>>>> 34b2f5f23cbdff73e0e33502d88f7ebeb0096fe6
+
 Darri Konn:
 The Matrix
 Shawshank Redemption
@@ -15,13 +15,11 @@ The Green Mile
 <<<<<<< HEAD
 
 =======
->>>>>>> 26faaeb6594f6712020b64c430e4928b85b59503
-=======
 
 Kevin:
-The Godfather
-<<<<<<< HEAD
->>>>>>> 98752e4a993006ffbcdbe766e3fa259dc3b1d5e4
+Godfather
+
+
 
 ===============
 
