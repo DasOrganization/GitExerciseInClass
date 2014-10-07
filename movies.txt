@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 Kjartan:
 The Matrix
 Sharknado
 Cannibal Holocaust
 
+=======
+darri mitt eigid 
+>>>>>>> 34b2f5f23cbdff73e0e33502d88f7ebeb0096fe6
 Darri Konn:
 The Matrix
 Shawshank Redemption
