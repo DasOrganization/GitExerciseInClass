@@ -7,10 +7,8 @@ Darri:
 The Matrix
 Shawshank Redemption
 The Green Mile
-<<<<<<< HEAD
->>>>>>> 7853c7d752aaccf8cd0b06d9b6c802677fcce58a
 =======
 
 Kevin:
 The Godfather
->>>>>>> 98752e4a993006ffbcdbe766e3fa259dc3b1d5e4
+
